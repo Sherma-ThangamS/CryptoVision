@@ -1,0 +1,9 @@
+pycoingecko
+yfinance
+pandas
+numpy
+streamlit
+requests
+TextBlob
+sklearn
+plotly
