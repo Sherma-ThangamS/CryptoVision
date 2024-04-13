@@ -5,5 +5,5 @@ numpy
 streamlit
 requests
 TextBlob
-sklearn
+scikit-learn
 plotly
