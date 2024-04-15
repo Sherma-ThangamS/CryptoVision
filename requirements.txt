@@ -7,3 +7,4 @@ requests
 TextBlob
 scikit-learn
 plotly
+matplotlib
